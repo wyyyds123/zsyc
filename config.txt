@@ -5,9 +5,9 @@
 # 公众号appSecret
 "app_secret": "fbc8d7caf03b6a9896d4d36d157a04ff",
 # 模板消息id
-"template_id": "CnZBA--FN7Vrk2gUWHHH0RL9Oa6pXY-PgOk8nKfAfqc",
+"template_id": "BzWSaIWFU63eNxKN_JRrbvzoyw-639fplKT1fD9ARDM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oYCyp5rMl4GHuV8xqUBLNIZo-GSg","oYCyp5gUtGYaWT-SScSzgwofpYeU"],
+"user": ["oYCyp5rMl4GHuV8xqUBLNIZo-GSg"],
 
 # 信息配置
 # 和风天气apikey
@@ -21,7 +21,8 @@
 # 生日2
 "birthday2": {"name": "小洋同志", "birthday": "r2002-01-21"},
 # 在一起的日子，格式同上
-"love_date": "2014-09-23",
+"love_date1": "2014-09-23",
+"love_date2": "2014-09-23",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
